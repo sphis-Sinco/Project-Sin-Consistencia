@@ -1,0 +1,4 @@
+- Smaller brush size (htfn)
+- Sketches (why?)
+- BG Outlines (okay)
+- Resize afterward (maybe...?)
